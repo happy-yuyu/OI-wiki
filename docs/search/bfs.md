@@ -1,3 +1,7 @@
+BFS (Breadth First Search)
+
 BFS 是图论中的一种遍历算法，详见 [BFS](../graph/bfs.md).
 
 BFS 在搜索中也很常用，将每个状态对应为图中的一个点即可。
+
+使用的是队列来实现。
